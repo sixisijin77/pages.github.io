@@ -1,6 +1,6 @@
-name: 
-author: 
-url: 
+name: 快乐向上~
+author: 涘槿
+url: https://sixisijin77.github.io/pages.github.io/
 baseurl: 
 resume_site: 
 description: 
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : 5cbc99a0e304ff9c2cb7
+    clientSecret : 59decffcf4e7cb95fb48df672fe13cd67fc191ea
+    repo : pages
+    owner : sixisijin77
+    admin : [sixisijin77]
