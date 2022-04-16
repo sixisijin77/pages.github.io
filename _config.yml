@@ -20,3 +20,5 @@ comments :
     repo : pages
     owner : sixisijin77
     admin : [sixisijin77]
+
+theme: jekyll-theme-time-machine
